@@ -1,3 +1,3 @@
-# Restaurant
+# CubeFrontend
 
-Création d'un restaurant en vue3
+Création d'un Frontend en vue3
