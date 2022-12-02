@@ -1,18 +1,19 @@
 {
-  "name": "cubefrontend",
-  "private": true,
+  "name": "restaurant",
   "version": "0.0.0",
-  "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview --port 5050"
   },
   "dependencies": {
-    "vue": "^3.2.41"
+    "package-lock.json": "^1.0.0",
+    "package.json": "^2.0.1",
+    "vue": "^3.2.33",
+    "vue-router": "^4.0.15"
   },
   "devDependencies": {
-    "@vitejs/plugin-vue": "^3.2.0",
-    "vite": "^3.2.3"
+    "@vitejs/plugin-vue": "^2.3.1",
+    "vite": "^2.9.15"
   }
 }
